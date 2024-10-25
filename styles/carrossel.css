@@ -15,5 +15,10 @@
 }
 .swiper-pagination{
     position: initial;
-    margin: 0.5em;
+    margin: 0.5em 0;
+}
+.card-descricao{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 0.5em;
 }
